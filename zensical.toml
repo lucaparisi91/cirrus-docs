@@ -8,12 +8,11 @@ edit_uri = "edit/main/docs/"
 
 nav = [
   {"Overview" = "index.md"},
-  {"New Cirrus EX4000 migration" = [
-    {"Overview" = "migration-2025/index.md"},
-    {"Projects not continuing on Cirrus EX4000" = "migration-2025/not-migrating.md"},
-    {"Account/Project Migration" = "migration-2025/account-migration.md"},
-    {"Data Migration" = "migration-2025/data-migration.md"},
-    {"Differences from old Cirrus" = "migration-2025/cirrus-differences.md"}
+  {"ARCHER2 Project Migration 2026" = [
+    {"Overview" = "archer2-migration-2026/index.md"},
+    {"Account/Project Migration" = "archer2-migration-2026/account-migration.md"},
+    {"Data Migration" = "archer2-migration-2026/data-migration.md"},
+    {"Differences from ARCHER2" = "archer2-migration-2026/cirrus-differences.md"}
   ]},
   {"User Guide" = [
     {"Introduction" = "user-guide/introduction.md"},
