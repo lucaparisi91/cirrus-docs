@@ -51,12 +51,13 @@ your account has access to through SAFE as you can for ARCHER2 accounts.
     ARCHER2. If you try to choose a different username from your ARCHER2 username
     then SAFE will give an error.
 
-Use the [standard account creation process in SAFE](https://epcced.github.io/safe-docs/safe-for-users/#how-to-request-a-machine-account) and select "Cirrus: Cirrus 2025 refresh"
+Use the [standard account creation process in SAFE](https://epcced.github.io/safe-docs/safe-for-users/#how-to-request-a-machine-account) and select "Cirrus"
 for the machine to request an account on. You **must** use the same username you have in 
-the project on ARCHER2 for your Cirrus NCR account.
+the project on ARCHER2 for your Cirrus NCR account. 
 
 You will need to setup credentials (MFA/TOTP token and SSH key) in the same way
-as you have done for your ARCHER2 account to be able to login to Cirrus NCR.
+as you have done for your ARCHER2 account to be able to login to Cirrus NCR. See
+[the Access Credentials section of the Cirrus Documentation](https://docs.cirrus.ac.uk/user-guide/connecting/#access-credentials-mfa) for more information on how to do this.
 
 ## How do I log into Cirrus NCR for the first time?
 

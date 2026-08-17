@@ -27,7 +27,7 @@ information where appropriate.
 
 ## Software
 
-- The software provided by the Cirrus support time is delivered via Spack rather
+- The software provided by the Cirrus support team is delivered via Spack rather
   than manual install processes used on ARCHER2
 - We will typically advise that users use Spack to build their own software on 
   Cirrus NCR wherever possible
